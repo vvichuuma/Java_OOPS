@@ -16,6 +16,9 @@ public class Person {
         this.company = company;
     }
 
+    public String getName() {
+        return name;
+    }
 
     // Encapsulation is the process of binding up of the methods with it's properties:
     public void getInfo(){

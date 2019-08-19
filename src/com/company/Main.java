@@ -11,6 +11,8 @@ public class Main {
         p1.getInfo();
         p2.getInfo();
 
+        Employee e1 = new Employee("peter" , 37, "Actualize", 137);
+        e1.employeeInfo();
 
     }
 }
