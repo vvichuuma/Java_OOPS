@@ -1,5 +1,5 @@
 # Java_OOPS
-This is the code for OOPS in Java
+Object oriented programming concepts: 
 
 #Access Modifiers: 
 Private - Members of this class can access only within that particular class.
@@ -29,3 +29,5 @@ have to be overwritten.
 //Interfaces - contains only abstract methods. There are no generalized methods in an Interface. Say each of your subclass
 have methods that are absolutely unique to that particular sub class then we use interface. You can only implement an interface.
 IT is not a class so you can't extend, you can only use implement.  
+
+                     x-------------------End-------------------X
